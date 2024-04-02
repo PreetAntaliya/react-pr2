@@ -1,0 +1,33 @@
+.counter_title{
+    text-decoration: underline;
+    font-style: italic;
+    color: green;
+}
+
+.counter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.counter button{
+    height: 40px;
+    width: 40px;
+    font-size: 30px;
+    margin: 0 30px;
+    background-color: green;
+    color: white;
+    border: none;
+}
+
+.counter h1{
+    padding: 10px 20px;
+    background-color: pink;
+}
+
+.reset_btn button{
+    padding: 10px 30px;
+    border: none;
+    color: white;
+    background-color: green;
+}
